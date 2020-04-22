@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/homework19/static/css/main.29c06f51.chunk.css",
+    "main.js": "/homework19/static/js/main.09928268.chunk.js",
+    "main.js.map": "/homework19/static/js/main.09928268.chunk.js.map",
+    "runtime-main.js": "/homework19/static/js/runtime-main.4cc049ae.js",
+    "runtime-main.js.map": "/homework19/static/js/runtime-main.4cc049ae.js.map",
+    "static/js/2.d6143dd9.chunk.js": "/homework19/static/js/2.d6143dd9.chunk.js",
+    "static/js/2.d6143dd9.chunk.js.map": "/homework19/static/js/2.d6143dd9.chunk.js.map",
+    "index.html": "/homework19/index.html",
+    "precache-manifest.4540278219ad3b690e30dd229ff91f3f.js": "/homework19/precache-manifest.4540278219ad3b690e30dd229ff91f3f.js",
+    "service-worker.js": "/homework19/service-worker.js",
+    "static/css/main.29c06f51.chunk.css.map": "/homework19/static/css/main.29c06f51.chunk.css.map",
+    "static/js/2.d6143dd9.chunk.js.LICENSE.txt": "/homework19/static/js/2.d6143dd9.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/homework19/static/media/Roboto-Medium.58aef543.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cc049ae.js",
+    "static/js/2.d6143dd9.chunk.js",
+    "static/css/main.29c06f51.chunk.css",
+    "static/js/main.09928268.chunk.js"
+  ]
+}
